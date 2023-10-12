@@ -1,0 +1,4 @@
+<resources>
+    <!-- Style for the AppBarOverlay -->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+</resources>
